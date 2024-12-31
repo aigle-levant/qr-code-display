@@ -9,7 +9,6 @@ $desktop-width: 1000px;
 body
 {
     font-family: 'Outfit', sans-serif;
-    
     background-color: $slate-300;
     display: flex;
     justify-content: center;
@@ -40,7 +39,7 @@ body
     border-radius: 3%;
     padding: 1rem 0;
     max-width: 90vw;
-    max-height: none;;
+    max-height: none;
     .image-holder
     {
         .image
